@@ -1,3 +1,4 @@
 # demo
-this is my first repository
-Author - SaiTeja Panthangi
+this is my first Git repository.
+<br>
+Author - Sai Teja Panthangi
